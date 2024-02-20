@@ -1,6 +1,6 @@
 # PsychAI - Your AI mental health companion
 
-https://psych-ai.vercel.app/
+Visit here: https://psych-ai.vercel.app/
 
 ## Overview
 
